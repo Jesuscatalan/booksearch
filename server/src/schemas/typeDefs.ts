@@ -1,4 +1,4 @@
-onst typeDefs = `
+const typeDefs = `
     type User {
         _id: ID
         username: String
